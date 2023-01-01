@@ -18,8 +18,8 @@
   "devDependencies": {
     "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.2.7",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.10.3"
   }
 }
